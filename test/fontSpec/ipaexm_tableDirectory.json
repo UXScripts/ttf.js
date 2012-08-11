@@ -20,6 +20,6 @@
 "post": {"checksum":"f1639df2", "actual":"f1639df2", "diff":"0", "offset":7690488, "len":113188},
 "prep": {"checksum":"3f711a3d", "actual":"3f711a3d", "diff":"0", "offset":7803676, "len":10},
 "vhea": {"checksum":"100807b2", "actual":"100807b2", "diff":"0", "offset":7803688, "len":36},
-"vmtx": {"checksum":"2dafdd80", "actual":"2dafdd80", "diff":"0", "offset":7803724, "len":24438},
+"vmtx": {"checksum":"2dafdd80", "actual":"2dafdd80", "diff":"0", "offset":7803724, "len":24438}
 }
 }
