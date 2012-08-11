@@ -1,0 +1,19 @@
+{
+"version":1, "numtables":14, "searchRange":128, "entrySel":3, "rangeshift":96,
+"tableDirectory":{
+"OS/2": {"checksum":"ab32c9fc", "actual":"ab32c9fc", "diff":"0", "offset":360, "len":96},
+"cmap": {"checksum":"0f54b98f", "actual":"0f54b98f", "diff":"0", "offset":50796, "len":48508},
+"cvt ": {"checksum":"00000000", "actual":"00000000", "diff":"0", "offset":99332, "len":2},
+"fpgm": {"checksum":"b02159b0", "actual":"b02159b0", "diff":"0", "offset":99304, "len":7},
+"gasp": {"checksum":"00040007", "actual":"00040007", "diff":"0", "offset":1173128, "len":12},
+"glyf": {"checksum":"ed91bd55", "actual":"ed91bd55", "diff":"0", "offset":149680, "len":1022220},
+"head": {"checksum":"ec2b05b5", "actual":"d7610fa8", "diff":"3b4a0a1d", "offset":236, "len":54},
+"hhea": {"checksum":"020d31e5", "actual":"020d31e5", "diff":"0", "offset":292, "len":36},
+"hmtx": {"checksum":"07868313", "actual":"07868313", "diff":"0", "offset":456, "len":50340},
+"loca": {"checksum":"18ed1db0", "actual":"18ed1db0", "diff":"0", "offset":99336, "len":50344},
+"maxp": {"checksum":"3170018a", "actual":"3170018a", "diff":"0", "offset":328, "len":32},
+"name": {"checksum":"73cb9da7", "actual":"73cb9da7", "diff":"0", "offset":1171900, "len":1196},
+"post": {"checksum":"ffef000d", "actual":"ffef000d", "diff":"0", "offset":1173096, "len":32},
+"prep": {"checksum":"80148829", "actual":"80148829", "diff":"0", "offset":99312, "len":18},
+}
+}

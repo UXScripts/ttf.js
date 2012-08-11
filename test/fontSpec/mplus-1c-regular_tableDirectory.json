@@ -1,0 +1,24 @@
+{
+"version":1, "numtables":19, "searchRange":256, "entrySel":4, "rangeshift":48,
+"tableDirectory":{
+"FFTM": {"checksum":"60393d9b", "actual":"60393d9b", "diff":"0", "offset":1351796, "len":28},
+"GDEF": {"checksum":"692a738f", "actual":"692a738f", "diff":"0", "offset":1325092, "len":1562},
+"GPOS": {"checksum":"0dce1fdf", "actual":"0dce1fdf", "diff":"0", "offset":1336388, "len":15406},
+"GSUB": {"checksum":"18fd32fa", "actual":"18fd32fa", "diff":"0", "offset":1326656, "len":9732},
+"OS/2": {"checksum":"4090d590", "actual":"4090d590", "diff":"0", "offset":440, "len":86},
+"PfEd": {"checksum":"4530a685", "actual":"4530a685", "diff":"0", "offset":1351824, "len":720},
+"cmap": {"checksum":"73e67f19", "actual":"73e67f19", "diff":"0", "offset":30008, "len":67386},
+"cvt ": {"checksum":"069302fb", "actual":"069302fb", "diff":"0", "offset":98060, "len":14},
+"fpgm": {"checksum":"0fb42fa7", "actual":"0fb42fa7", "diff":"0", "offset":97396, "len":613},
+"gasp": {"checksum":"ffff0003", "actual":"ffff0003", "diff":"0", "offset":1325084, "len":8},
+"glyf": {"checksum":"dd75d14c", "actual":"dd75d14c", "diff":"0", "offset":127672, "len":1196556},
+"head": {"checksum":"fe9d740b", "actual":"581d9026", "diff":"a680e42d", "offset":316, "len":54},
+"hhea": {"checksum":"09a31d6a", "actual":"09a31d6a", "diff":"0", "offset":372, "len":36},
+"hmtx": {"checksum":"76faa84e", "actual":"76faa84e", "diff":"0", "offset":528, "len":29478},
+"loca": {"checksum":"cf2d3434", "actual":"cf2d3434", "diff":"0", "offset":98076, "len":29596},
+"maxp": {"checksum":"1e1f0155", "actual":"1e1f0155", "diff":"0", "offset":408, "len":32},
+"name": {"checksum":"23ed2888", "actual":"23ed2888", "diff":"0", "offset":1324228, "len":822},
+"post": {"checksum":"ff860032", "actual":"ff860032", "diff":"0", "offset":1325052, "len":32},
+"prep": {"checksum":"b0f22b14", "actual":"b0f22b14", "diff":"0", "offset":98012, "len":46},
+}
+}
